@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hello there! I'm Victor.
 
 ---
 
 A Software Engineer and Computer Science student focused on JS/TS technologies trying to learn as much as possible.
 
 I'm currently working on Game Development with [Cocos Creator](https://www.cocos.com/creator) while learning Node and React.
+
+Also, i really love coffee ☕.
 
 ---
 
